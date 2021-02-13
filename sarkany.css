@@ -54,6 +54,6 @@ a{
   font-weight: bold;
 }
 
-ul{
+ul,li{
   margin-bottom: 25px;
 }
